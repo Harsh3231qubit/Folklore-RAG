@@ -1,6 +1,6 @@
 # FolkloreRAG
 
-![CI](https://github.com/Harsh3231qubit/folklore-rag/actions/workflows/ci.yml/badge.svg)
+
 
 A **LangGraph + Qdrant** pipeline that turns a one-line premise into an original 4-scene Indian audio-drama script, with a critic/rewrite loop and **LLM-as-judge evals**. Built on Groq's free API and runnable on a laptop or free Colab.
 
