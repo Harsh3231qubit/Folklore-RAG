@@ -1,0 +1,8 @@
+langgraph
+qdrant-client
+sentence-transformers
+groq
+tenacity
+scipy
+pandas
+python-dotenv

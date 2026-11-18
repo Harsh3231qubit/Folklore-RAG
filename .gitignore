@@ -1,0 +1,14 @@
+.env
+*.key
+.cache/
+llm_cache/
+folklore_backup.zip
+results/to_label.csv
+results/labeled.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.venv/
