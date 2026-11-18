@@ -73,6 +73,4 @@ With 5 premises these gaps are within noise, so I do not claim any variant wins.
 - Small sample (5 premises) and an LLM judge that shares a rubric with the critic.
 - Output is text only; no audio or TTS stage.
 
-## License
 
-MIT
